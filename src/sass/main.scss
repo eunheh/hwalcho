@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  list-style-type: none; }
+
+.navbar {
+  background: white;
+  height: 90px;
+  margin-bottom: 0px; }
+  .navbar .navbar-brand {
+    font-family: 'Source Code Pro';
+    font-size: 35px;
+    font-weight: 500;
+    letter-spacing: 4px;
+    padding-left: 150px;
+    padding-top: 38px;
+    color: black; }
+  .navbar .navbar-nav {
+    font-weight: 300;
+    font-size: 16px;
+    padding-right: 70px;
+    padding-top: 28px;
+    letter-spacing: 2.75px; }
+
+.widepic {
+  height: 800px;
+}
+
+.pastorpic {
+  height: 500px;
+  padding-left: 50px;
+  padding-top: 50px;
+}
+
+.bio {
+    padding-top: 50px;
+
+  .intro-self {
+    letter-spacing: 5px;
+    font-weight: 300;
+    font-size: 25px;
+    padding-top: 75px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 80px; }
+
+  .detail-self {
+    font-weight: 300;
+    font-size: 15px;
+    letter-spacing: 1px;
+    padding-bottom: 30px;
+    padding-right: 65px;
+    padding-left: 20px; }
+}
+
+.projectsection {
+  padding-top: 100px;
+  padding-left: 70px;
+  padding-right: 70px; }
+  .projectsection img {
+    width: 525px; }
+  .projectsection .projectTitle {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 4px; }
+  .projectsection .projectDesc {
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 1px; }
+  .projectsection .projectTools {
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1.25px; }
+  .projectsection .fa {
+    font-size: 20px;
+    padding-right: 10px;
+    color: black; }
+  .projectsection .fa:hover {
+    color: gray; }
+
+footer {
+  height: 650px; }
+  footer .hello {
+    font-family: 'Source Code Pro';
+    padding-top: 100px;
+    padding-bottom: 40px; }
+  footer i {
+    padding-bottom: 20px; }
+  footer .contactstuff {
+    padding-top: 30px;
+    color: gray;
+    font-family: 'Source Code Pro'; }
